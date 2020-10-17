@@ -10,8 +10,10 @@ Este é H**app**y, uma aplicação que exibe todos os orfanatos próximos da sua
 - Expo
 - React Navigation
 - React Native Maps
+- React Hooks
 - TypeScript
 - Vector Icons (Expo)
+- Image Picker
 
 ## Calendário
 Esta é uma breve descrição do que foi desenvolvido/praticado no dia.
@@ -31,7 +33,18 @@ Esta é uma breve descrição do que foi desenvolvido/praticado no dia.
 - Como importar Google fonts com expo;
 - Como fazer a navegação entre telas;
 - ![mobile](https://media.giphy.com/media/ZMFh857pQdvl3cw3Ml/giphy.gif)
-- [ ] Dia 5:
+- [X] **Dia 5**:
+- Como inserir Header em telas específicas;
+- Listagem dos orfanatos cadastrados na API na tela inicial;
+- Desenvolvimento da tela para selecionar um ponto no mapa;
+- Como recuperar a latitude e longitude com base no toque do usuário no mapa;
+- Como enviar e resgatar um parametro enviado de uma tela pra outra com o hook `useRoute`
+- Desenvolvimento do formulário de cadastro de orfanato;
+- Como enviar fotos com o Image Picker;
+- Utilizando o `useFocusEffect` para recarregar a tela quando o usuário retornar para a tela inicial;
+- ![mobile](https://media.giphy.com/media/XGbh3c91KPisjRJLVu/giphy.gif)
+
+
 
 ## 💥️ Bonus
 Estas são as funcionalidades que adicionei ao projeto até o momento.
